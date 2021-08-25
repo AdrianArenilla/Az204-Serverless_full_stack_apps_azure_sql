@@ -142,9 +142,9 @@ Confirmation e-mail (Entering the Geofence).
 ![](Evidences/Image38.png)
 
 
-Updated map with geo-fence and buses.
+Updated map with Geofence and buses.
 ![](Evidences/Image39.png)
 
 
-Updated map with geo-fence and buses.
+Updated map with Geofence and buses.
 ![](Evidences/Image40.png)
