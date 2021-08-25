@@ -9,7 +9,7 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 
 namespace GetBusData
-{    
+{
     public static class GetBusData
     {
         [FunctionName("GetBusData")]
@@ -18,6 +18,5 @@ namespace GetBusData
             var m = new BusDataManager(log);
             await m.ProcessBusData();
         }
-
     }
 }
